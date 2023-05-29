@@ -35,23 +35,15 @@
 5. Firebase,Firestore, Firebasestorage
 
 
-### Images 
+### Images
 
-### Login Screen
-![](images/8861.jpg)
+<div style="display: flex; justify-content: center;">
+    <img src="images/8861.jpg" alt="Login Screen" style="margin-right: 10px;">
+    <img src="images/8861.jpg" alt="Profile fragment" style="margin-right: 10px;">
+    <img src="images/8861.jpg" alt="Follow Fragment" style="margin-right: 10px;">
+    <img src="images/8861.jpg" alt="FeedView" style="margin-right: 10px;">
+    <img src="images/8861.jpg" alt="Edit Profile" style="margin-right: 10px;">
+    <img src="images/8861.jpg" alt="Upload post">
+</div>
 
-### Profile fragment 
-![](images/8861.jpg)
-
-### Follow Fragment
-![](images/8861.jpg)
-
-### FeedView 
-![](images/8861.jpg)
-
-### Edit Profile 
-![](images/8861.jpg)
-
-### Upload post 
-![](images/8861.jpg)
 
