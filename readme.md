@@ -38,20 +38,20 @@
 ### Images 
 
 ### Login Screen
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
 ### Profile fragment 
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
 ### Follow Fragment
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
 ### FeedView 
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
 ### Edit Profile 
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
 ### Upload post 
-![Image](images/8861.jpg){:height="300px" width="400px"}
+![](images/8861.jpg)
 
